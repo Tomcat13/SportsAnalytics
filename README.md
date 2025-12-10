@@ -33,11 +33,14 @@ This project uses Geospatial data from the 2023 season to uncover insights while
 Confidential.  We worked with the Datalys Center to create an automated reporting dashboard for their NCAA surveillance data.  Instead of sending out periodic static reports or performing internal analysis from the raw data, authorized users can dynamically retrieve reporting KPIs and uncover additional insights.
 
 #### Live NFL Score Prediction Model
-Link to repository:
+Link to repository: https://github.com/Tomcat13/NFLLivePrediction
 
 I created a simple model to predict the ending score of a team based on the current score of the game.  Accuracy based on RMSE was within a field goal by half time.  This was deployed in a cloud setting and would stream live NFL play-by-play data for real-time score prediction updates.
 
+#### NCAA Rev-Share Statistical Analysis
+Link to file: https://rpubs.com/tbreedy/1240450
 
+I explored, using limited data, how performance of Divsion I NCAA teams impacts revenue changes in subsequent seasons.  I wanted to explore how the House v NCAA decision may impact specific non-revenue sports by looking at how schools handled changes in revenue historically.  I found weak to no results that large fluctions, both positive and negative, in revenue from revenue-generating sports like Football have substantial impacts on funding changes of non-revenue sports.  This does not discredit the threat House has towards funding of NCAA programs, but it calls into question a common saying in college athletics that the success of football teams keeps the non-revenue sports alive instead of other revenue sources like school appropriations or private funding.
 
 
 
