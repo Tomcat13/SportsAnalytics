@@ -1,5 +1,5 @@
 # Thomas Reedy Sports Analytics
-Last Updated 12/10/2025
+Last Updated 12/11/2025
 
 ## About Me
 My name is Thomas Reedy, and I am a recent graudate from Indiana University Indianapolis with my Masters in Applied Data Sceience and Sports Analytics.  Sports has always been a huge part of my life (I swam Divion I in college and am currently competing in Ironman triathalons), and I am excited to merge this passion in a  professional, data-driven setting to deliver value to athletes and organizations.  
@@ -19,7 +19,7 @@ https://www.linkedin.com/in/thomas-reedy-151363190/
 Email: reedyt22@gmail.com
 
 ## Projects
-Some projects I have worked on are confidential in nature, so I will not be able to share specific code or details.  If possible, I will give a brief description.
+Some projects I have worked on are confidential in nature, so I will not be able to share specific code or details.  If possible, I will give a brief description.  To see other non-sport specific projects, check out my other repositories.
 
 #### CSAS 2026 Data Challenge - Curling
 Stay tuned!  This is getting started, so no code is available yet.  For more info: https://statds.org/events/csas2026/challenge.html
@@ -40,7 +40,7 @@ I created and optimized a random forest model to predict the ending score of a t
 #### NCAA Rev-Share Statistical Analysis
 Link to file: https://rpubs.com/tbreedy/1240450
 
-I explored, using limited data, how performance of Divsion I NCAA teams impacts revenue changes in subsequent seasons.  I wanted to explore how the House v NCAA decision may impact specific non-revenue sports by looking at how schools handled changes in revenue historically.  I found weak to no results that large fluctions, both positive and negative, in revenue from revenue-generating sports like Football have substantial impacts on funding changes of non-revenue sports.  This does not discredit the threat House has towards funding of NCAA programs, but it calls into question a common saying in college athletics that the success of football teams keeps the non-revenue sports alive instead of other revenue sources like school appropriations or private funding.
+I explored, using limited data, how performance of Divsion I NCAA teams impacts revenue changes in subsequent seasons.  I wanted to explore how the House v NCAA decision may impact specific non-revenue sports by looking at how schools handled changes in revenue historically.  I found weak to no results that large fluctuations, both positive and negative, in revenue from revenue-generating sports like Football have substantial impacts on funding changes of non-revenue sports.  This does not discredit the threat House has towards funding of NCAA programs, but it calls into question a common saying in college athletics that the success of football teams keeps the non-revenue sports alive instead of other revenue sources like school appropriations or private funding.
 
 
 
