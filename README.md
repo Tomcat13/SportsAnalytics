@@ -2,7 +2,7 @@
 Last Updated 12/11/2025
 
 ## About Me
-My name is Thomas Reedy, and I am a recent graudate from Indiana University Indianapolis with my Masters in Applied Data Sceience and Sports Analytics.  Sports has always been a huge part of my life (I swam Divion I in college and am currently competing in Ironman triathalons), and I am excited to merge this passion in a  professional, data-driven setting to deliver value to athletes and organizations.  
+My name is Thomas Reedy, and I am a recent graudate from Indiana University Indianapolis with my Masters in Applied Data Sceience and Sports Analytics.  Sports has always been a huge part of my life (I swam Division I in college and am currently competing in Ironman triathalons), and I am excited to merge this passion in a  professional, data-driven setting to deliver value to athletes and organizations.  
 
 ## Data Skills and Experience
 I have had ample experience in full-stack data workflows from building data pipelines, performing EDA and data cleaning/reconciliation, statistical modeling, machine learning, and deploying my results through dashboards or other applications.  I have used these skills to contibute via internships and graudate projects for the NCAA, NBA teams, USOPC, sports-tech start ups, univeristy teams, data challenges, and graduate courses.
@@ -30,7 +30,7 @@ Link to Kaggle: https://www.kaggle.com/code/thomasreedy/nfl-big-data-bowl-submis
 This year's prompt was to use Geospatial data from the 2023 season to uncover insights while the ball is in the air.  My submission focuses on how quickly secondary defenders can make productive reactions in chasing down receivers after a QB has thrown the ball.  This metric calculates the time it takes a defender to accelerate in a specific direction, measuring the defenders intent alongside a physical reaction time.  This addresses the situational shortcoming of a physically talented athlete with inneficient movements underpreforming relative to a slower athlete who is more effecient with his movement.
 
 #### NCAA Injury Surveillance Dashbaords
-Confidential.  We worked with the Datalys Center to create an automated reporting dashboard for their NCAA surveillance data.  Instead of sending out periodic static reports or performing internal analysis from the raw data, authorized users can dynamically retrieve reporting KPIs and uncover additional insights.
+Confidential.  We worked with the Datalys Center to create an automated reporting dashboard for their NCAA surveillance data.  Instead of sending out periodic static reports as a pdf or performing internal analysis from the raw data, authorized users can dynamically retrieve reporting KPIs and uncover additional insights through an interactive UI.  The architecture used a periodically changing csv file as an input and the output was a dynamic, interactive Dash application.
 
 #### Live NFL Score Prediction Model
 Link to repository: https://github.com/Tomcat13/NFLLivePrediction
