@@ -10,7 +10,7 @@ I have had ample experience in full-stack data workflows from building data pipe
 - Languages: Python, SQL, R, C++, HTML
 - Visualizations: Tableau, Streamlit, Dash
 - Data Science and Modeling: Regressions, Clustering, Tree-based models, LLMs with RAG, Neural Networks, Transformer-based models
-- Engineering: Azure, Databricks, API integration
+- Engineering: Azure, Google Cloud, Databricks, API integration
 ### Professional Work Experience
 See my Linkedin!  
 https://www.linkedin.com/in/thomas-reedy-151363190/
@@ -24,6 +24,8 @@ Some projects I have worked on are confidential in nature, so I will not be able
 #### CSAS 2026 Data Challenge - Curling
   
 - Link to repo: https://github.com/Tomcat13/CurlingPowerPlay
+
+- Update: I was selected as one of this year's finalists.  Presentations will happen April 11th, 2026.
 
 - This year's CSAS Data Challenge involving timing of the power play in mixed doubles curling.  Team's only get this special play once per game, so they need to make it count.  I analyzed different strategies teams could use along with state-by-state updates on increased (or decreased) likelihood of winning if a power play was used in a given state.  This analysis gave us "rules of thumb" athletes and coaches can use in real-time such as not sacrificing a point to retain the power play late in the game or using the power play early in the game if you have incurred large losses.
 
